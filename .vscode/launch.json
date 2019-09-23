@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - IMC",
+            "request": "launch",
+            "mainClass": "IMC"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - email",
+            "request": "launch",
+            "mainClass": "email"
+        }
+    ]
+}
