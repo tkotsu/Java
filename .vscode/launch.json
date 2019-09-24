@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Cursa",
+            "request": "launch",
+            "mainClass": "Cursa"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - IMC",
             "request": "launch",
             "mainClass": "IMC"
