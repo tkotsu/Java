@@ -2,6 +2,30 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Temps6",
+            "request": "launch",
+            "mainClass": "Temps6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Questionari5",
+            "request": "launch",
+            "mainClass": "Questionari5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EX1",
+            "request": "launch",
+            "mainClass": "EX1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Numeros",
+            "request": "launch",
+            "mainClass": "Numeros"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Supermercat",
             "request": "launch",
             "mainClass": "Supermercat"
