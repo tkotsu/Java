@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Supermercat",
+            "request": "launch",
+            "mainClass": "Supermercat"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Cursa",
             "request": "launch",
             "mainClass": "Cursa"

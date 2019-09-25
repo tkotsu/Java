@@ -11,14 +11,22 @@ public class Cursa{
         sexe = System.console().readLine();
 
         if (edat<=16){
-            if (sexe=="M")
+            if (sexe.equals("M"))
                 System.out.println(""+nom+" la teva categoria es: Juvenil masculi");
-            else if (sexe=="F") 
+            else if (sexe.equals("F")) 
                 System.out.println(""+nom+" la teva categoria es: Juvenil femeni");
-            else 
-            System.out.println("me gustan las poitas 2");
         }
-        else
-        System.out.println("me gustan las poitas");
+        else if (edat<=65){
+            if (sexe.equals("M"))
+                System.out.println(""+nom+" la teva categoria es: Senior masculi");
+            else if (sexe.equals("F"))
+                System.out.println(""+nom+" la teva categoria es: Senior femenu");
+        }
+        else if (edat>65){
+            if (sexe.equals("M"))
+                System.out.println(""+nom+" la teva categoria es: Vetera masculi");
+            else if(sexe.equals("F"))
+                System.out.println(""+nom+" la teva categoria es: Vetera femeni");
+        }
     }
 }
