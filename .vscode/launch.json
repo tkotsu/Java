@@ -2,6 +2,24 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Trio7",
+            "request": "launch",
+            "mainClass": "Trio7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - For",
+            "request": "launch",
+            "mainClass": "For"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - While",
+            "request": "launch",
+            "mainClass": "While"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Temps6",
             "request": "launch",
             "mainClass": "Temps6"
