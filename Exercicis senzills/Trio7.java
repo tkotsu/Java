@@ -1,15 +1,25 @@
+import java.util.HashSet;
+import java.util.Set;
+
 public class Trio7{
+
     public static void main(String[] args) {
         
-        int numran = (int)System.currentTimeMillis()%1000;
-        int start = 0;
+        int intents = 1;
+        int numran = (int)(Math.random()*(999 - 0) + 1);
+        int endevinar = (int)(Math.random()*(999 - 0) + 1);
 
-        while(start<numran){
+        while(endevinar!=numran){
 
-            System.out.println("pensant");
-            start++;
+            endevinar = (int)(Math.random()*(999 - 0) + 1);
+            numran = (int)(Math.random()*(999 - 0) + 1);
+            intents++;
+
+            }
+
+            System.out.println("Els intents han set: "+intents);
+            System.out.println("el numero era: " +endevinar);
+
+
         }
-        System.out.println("El numero es: "+numran);
-        System.out.println("Els intents han set: "+start);
     }
-}
