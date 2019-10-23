@@ -2,6 +2,168 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Buscamines",
+            "request": "launch",
+            "mainClass": "Buscamines"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Bingo",
+            "request": "launch",
+            "mainClass": "Bingo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Bidimensional",
+            "request": "launch",
+            "mainClass": "Bidimensional"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ex5",
+            "request": "launch",
+            "mainClass": "Ex5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ex4",
+            "request": "launch",
+            "mainClass": "Ex4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ex3",
+            "request": "launch",
+            "mainClass": "Ex3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exemple2",
+            "request": "launch",
+            "mainClass": "Exemple2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exemple1",
+            "request": "launch",
+            "mainClass": "Exemple1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Numeroprimer",
+            "request": "launch",
+            "mainClass": "Numeroprimer"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Nota",
+            "request": "launch",
+            "mainClass": "Nota"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Shiaq3",
+            "request": "launch",
+            "mainClass": "Shiaq3",
+            "projectName": "vscodeprojects_fb1d2927"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - shiaq2",
+            "request": "launch",
+            "mainClass": "shiaq2",
+            "projectName": "vscodeprojects_fb1d2927"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Nota",
+            "request": "launch",
+            "mainClass": "Nota",
+            "projectName": "vscodeprojects_fb1d2927"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - trio87",
+            "request": "launch",
+            "mainClass": "trio87",
+            "projectName": "vscodeprojects_fb1d2927"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Pregunta",
+            "request": "launch",
+            "mainClass": "Pregunta",
+            "projectName": "vscodeprojects_fb1d2927"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DNI",
+            "request": "launch",
+            "mainClass": "DNI",
+            "projectName": "vscodeprojects_fb1d2927"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Numeroprimer",
+            "request": "launch",
+            "mainClass": "Numeroprimer",
+            "projectName": "vscodeprojects_fb1d2927"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Quetanllarg",
+            "request": "launch",
+            "mainClass": "Quetanllarg",
+            "projectName": "vscodeprojects_fb1d2927"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Lletra",
+            "request": "launch",
+            "mainClass": "Lletra",
+            "projectName": "vscodeprojects_fb1d2927"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "vscodeprojects_fb1d2927"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Parellsenar",
+            "request": "launch",
+            "mainClass": "Parellsenar",
+            "projectName": "vscodeprojects_fb1d2927"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ex1",
+            "request": "launch",
+            "mainClass": "Ex1",
+            "projectName": "vscodeprojects_fb1d2927"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Cursa9",
+            "request": "launch",
+            "mainClass": "Cursa9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Trio8",
+            "request": "launch",
+            "mainClass": "Trio8"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TrioPro",
+            "request": "launch",
+            "mainClass": "TrioPro"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Trio7",
             "request": "launch",
             "mainClass": "Trio7"
