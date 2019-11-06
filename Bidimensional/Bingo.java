@@ -114,6 +114,5 @@ public class Bingo {
         int numbing = r.nextInt(100);
         int i = 0;
         int numrepe[] = new int[120];
-        
     }
 }

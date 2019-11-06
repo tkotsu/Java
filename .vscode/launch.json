@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Funcion1",
+            "request": "launch",
+            "mainClass": "Funcion1",
+            "projectName": "vscodeprojects_fb1d2927"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Buscamines",
             "request": "launch",
             "mainClass": "Buscamines"
