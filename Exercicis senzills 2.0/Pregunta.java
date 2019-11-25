@@ -14,6 +14,7 @@ public class Pregunta{
 
         if (Pr1.equals("blau") && Pr2.equals("Torello") && Pr3.equals("Timur")){
             punts=3;
+            System.out.println(punts);
         
         }
     }

@@ -2,6 +2,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - regexexem",
+            "request": "launch",
+            "mainClass": "regexexem",
+            "projectName": "vscodeprojects_6a0a83ab"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - lletres",
+            "request": "launch",
+            "mainClass": "lletres",
+            "projectName": "vscodeprojects_6a0a83ab"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Mots",
+            "request": "launch",
+            "mainClass": "Mots",
+            "projectName": "vscodeprojects_6a0a83ab"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - vaca",
+            "request": "launch",
+            "mainClass": "vaca",
+            "projectName": "vscodeprojects_6a0a83ab"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Whileep",
+            "request": "launch",
+            "mainClass": "Whileep",
+            "projectName": "vscodeprojects_6a0a83ab"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Funcion1",
             "request": "launch",
             "mainClass": "Funcion1",

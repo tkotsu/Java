@@ -1,4 +1,4 @@
-public class While{
+public class Whileep{
     public static void main(String[] args) {
         
         int iteracio = 0;
@@ -12,5 +12,6 @@ public class While{
         }
 
         System.out.println("Ja estic");
+        System.out.println(final_it);
     }
 }
